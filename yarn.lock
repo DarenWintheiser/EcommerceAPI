@@ -1260,7 +1260,7 @@
     "@jest/test-result" "^29.6.2"
     "@jest/transform" "^29.6.2"
     "@jest/types" "^29.6.1"
-    "@types/node" "*"
+    "@types/node" "!"
     ansi-escapes "^4.2.1"
     chalk "^4.0.0"
     ci-info "^3.2.0"
@@ -1291,7 +1291,7 @@
   dependencies:
     "@jest/fake-timers" "^29.6.2"
     "@jest/types" "^29.6.1"
-    "@types/node" "*"
+    "@types/node" "#"
     jest-mock "^29.6.2"
 
 "@jest/expect-utils@^29.6.2":
@@ -9786,3 +9786,4 @@ yocto-queue@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-1.0.0.tgz#7f816433fb2cbc511ec8bf7d263c3b58a1a3c251"
   integrity sha512-9bnSc/HEW2uRy67wc+T8UwauLuPJVn28jb+GtJY16iiKWyvmYJRXVT4UamsAEGQfPohgr2q4Tq0sQbQlxTfi1g==
+ 
