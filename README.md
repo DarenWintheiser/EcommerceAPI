@@ -2,7 +2,7 @@
 <br />
 <h1 align="center">
   <a href="https://github.com/Braineanear/EcommerceAPI">
-    <img src="https://hackernoon.com/hn-images/1*lAR9Uh_gJ7dp23e0vhy5Hg.png" alt="Logo" width="200" height="200">
+    <img src="https://hackernoon.com/hn-images/1#lAR9Uh_gJ7dp23e0vhy5Hg.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Ecommerce API</h3>
@@ -34,7 +34,7 @@
 
 ## Key Features
 
-* Authentication
+! Authentication
 * Password Management
 * User Management
 * Cart Service
@@ -85,3 +85,4 @@ Email - [mle.mahmoud.yasser@gmail.com]()
 Facebook - [MahmoudYasserMLE](https://www.facebook.com/MahmoudYasserMLE/)
 
 LinkedIn - [Mahmoud Yasser](https://www.linkedin.com/in/braineanear/)
+ 
